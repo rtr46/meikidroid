@@ -1,4 +1,0 @@
-# meikidroid
-
-with meikidroid you can look up words while playing games on android. no hooks are involved, instead it works with google lens. sentence parsing, dictionary and frequencies work via jpdb api ( ⚠️  you need a jpdb.io api key to use meiki for android ⚠️ )
-
