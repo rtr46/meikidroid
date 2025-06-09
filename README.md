@@ -1,6 +1,6 @@
 # meikidroid
 
-with meikidroid you can look up words while playing games on android. no hooks are involved, instead it works with google lens. sentence parsing, dictionary and frequencies work via jpdb api ( ⚠️  you need a jpdb.io api key to use meiki for android ⚠️ )
+with meikidroid you can look up words while playing games on android. no hooks are involved, instead it works with google lens ocr. sentence parsing, dictionary and frequencies work via jpdb api ( ⚠️  you need a jpdb.io api key to use meiki for android ⚠️ )
 
 ![Screenshot_20250601-194747](https://github.com/user-attachments/assets/97eee6f5-2d64-45d7-b533-ebd00891459c)
 ![Screenshot_20250601-194426](https://github.com/user-attachments/assets/0a2dfc85-f8fe-4170-ba95-89ce09d19073)
